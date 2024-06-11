@@ -1,0 +1,15 @@
+Input files: Test_data/PROTEIN.fa were written to one fasta file: Examples/cw_protein/ADOMA_PROTEIN.fa
+Prefix is defined as: ADOMA_PROTEIN, type of sequences is defined as: PROTEIN
+There are extra ClustalW options defined: -gapopen=30 -gapext=5 -seqnos=ON
+Extra colored output for the Clustal W alignment is requested
+
+ClustalW alignment:
+
+
+
+ CLUSTAL 2.1 Multiple Sequence Alignments
+
+
+Sequence type explicitly set to Protein
+
+Convert ClustalW alignment to different output files with python script: convert_aln.py

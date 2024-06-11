@@ -1,0 +1,1 @@
+$ ./adoma.sh -p ADOMA_PROTEIN -i Test_data/PROTEIN.fa -clustalw -gapopen=30 -gapext=5 -seqnos=ON -prot -color

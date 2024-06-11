@@ -1,0 +1,8 @@
+Input files: BBA0007.tfa were written to one fasta file: BBA0007.fa
+Prefix is defined as: BBA0007, type of sequences is defined as: PROTEIN
+Extra colored output for the Clustal W alignment is requested
+
+ClustalW alignment:
+Convert ClustalW alignment to different output files with python script: convert_aln.py
+rm: impossible de supprimer 'full_aln_1.txt': No such file or directory
+rm: impossible de supprimer 'pos.txt': No such file or directory

@@ -1,0 +1,14 @@
+Input files: Test_data/DNA.fa were written to one fasta file: Examples/txt_DNA/ADOMA_DNA.fa
+Prefix is defined as: ADOMA_DNA, type of sequences is defined as: DNA
+Extra txt output for the simplified alignment is requested
+
+ClustalW alignment:
+
+
+
+ CLUSTAL 2.1 Multiple Sequence Alignments
+
+
+Sequence type explicitly set to DNA
+
+Convert ClustalW alignment to different output files with python script: convert_aln.py
